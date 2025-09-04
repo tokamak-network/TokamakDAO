@@ -10,16 +10,12 @@ TokamakDAO is a decentralized autonomous organization built on the Tokamak Netwo
 
 All repositories related to development for TokamakStaking are provided here. Please note that these are under active development.
 
-| Type       | Name                                                                                              | Status       |
-| ---------- | ------------------------------------------------------------------------------------------------- | ------------ |
-| Frontend | [DAO community version](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)  | ✔️ Completed |
-| LLM Prompts | [DAO LLM prompts](https://github.com/tokamak-network/dao-community-version/tree/main/prompts-for-llm)  | In progress |
-| Agenda   | [dao-agenda-metadata](https://github.com/tokamak-network/dao-agenda-metadata-repository)         | ✔️ Completed |
-| Contracts   | [Tokamak DAO Contracts](https://github.com/tokamak-network/tokamak-dao-contracts)           | ✔️ Completed |
-
-## Getting Started
-
-## Documentation
+| Type       | Name                                                                                              |Description| Status       |
+| ---------- | ------------------------------------------------------------------------------------------------- |------------| ------------ |
+| Frontend | [DAO community version](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)  |The Tokamak Network provides a Tokamak DAO community version web application that allows communities to easily build and operate their own Decentralized Autonomous Organizations (DAOs).| ✔️ Completed |
+| LLM Prompts | [DAO LLM prompts](https://github.com/tokamak-network/dao-community-version/tree/main/prompts-for-llm) |This repository provides feature-specific prompts for building Tokamak DAO (Decentralized Autonomous Organization) applications using large-scale language models. Each prompt generates a complete, production-ready web application with minimal setup.| In progress |
+| Agenda   | [dao-agenda-metadata](https://github.com/tokamak-network/dao-agenda-metadata-repository)         |This repository allows proposers to voluntarily register on-chain agenda metadata to facilitate DAO committee voting. Proposers seeking DAO committee votes must register detailed metadata here. This establishes a self-regulating and transparent governance system that is voluntary in its disclosure but essential for community participation.| ✔️ Completed |
+| Contracts   | [Tokamak DAO Contracts](https://github.com/tokamak-network/tokamak-dao-contracts)           |This repository contains all DAO contracts for the Tokamak Network. The Tokamak Network DAO manages the settings of all contracts that operate the Tokamak Network. Detailed contract addresses can be found in the repository’s [README](https://github.com/tokamak-network/tokamak-dao-contracts?tab=readme-ov-file#deployed-contracts-addresses).|✔️ Completed |
 
 
 ## Security
