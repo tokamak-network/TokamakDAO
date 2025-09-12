@@ -1,4 +1,4 @@
-# Guide the usages for DAO contracts through Etherscan
+# 이더스캔을 이용한 다오 컨트랙 사용하는 방법
 
 이 디렉토리는 Tokamak DAO 관련 스마트 컨트랙에서 안건 제출, 조회, 투표, 실행을 이더스캔을 이용하는 방법에 대한 안내서입니다.
 
@@ -18,7 +18,7 @@
    - 컨트랙트 주소 등은 [contract addresses.md] 문서를 참고하세요.
 
 2. **안건 제출**
-   - 안건을 제출려면 [agenda_proposal.md](./agenda_proposal.md)의 `TON.approveAndCall` 함수를 참고하세요.
+   - 안건을 제출려면 [agenda_proposal.md](./agenda_proposal.md)를 참고하세요.
 
 3. **안건 조회**
    - 특정 안건의 상세정보 및 상태를 확인하기 위해서는 [agenda_view.md](./agenda_view.md)의 `view`, `status` 함수를 참고하세요.
