@@ -2,11 +2,10 @@
 > 아젠다를 실행하기 위한 함수를 안내합니다.
 > 투표를 통해 통과된 아젠다이면 누구나 실행이 가능합니다.
 
----
+
 ## DAOAgendaManager: [etherscan link](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484#code)
 
-
-*********
+---
 
 ### [canExecuteAgenda(uint256 _agendaID)](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484#readContract#F2)
 

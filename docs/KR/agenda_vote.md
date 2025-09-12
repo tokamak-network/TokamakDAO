@@ -2,12 +2,9 @@
 > 아젠다에 투표하기 위한 함수를 안내합니다.
 > 다오 멤버만 아젠다에 투표를 할 수 있습니다.
 
----
-
 ## DAOAgendaManager: [etherscan link](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484)
 
-
-*********
+---
 
 ### [isVotableStatus(uint256 _agendaID)](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484#readContract#F18)
 

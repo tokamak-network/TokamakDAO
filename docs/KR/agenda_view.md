@@ -1,10 +1,8 @@
 # 아젠다 상세보기
 > 아젠다의 상세 정보를 확인할 수 있는 함수를 안내합니다.
-- DAOAgendaManager: [etherscan link](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484)
+## DAOAgendaManager: [etherscan link](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484)
 ---
 
-
-*********
 
 ### [agendas(uint256 index)](https://etherscan.io/address/0xcD4421d082752f363E1687544a09d5112cD4f484#readContract#F1)
 
