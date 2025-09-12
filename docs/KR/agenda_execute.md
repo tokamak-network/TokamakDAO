@@ -23,8 +23,6 @@
 ---
 
 
-*********
-
 ### executeAgenda(uint256 _agendaID)
 
 아젠다를 실행하는 함수.
