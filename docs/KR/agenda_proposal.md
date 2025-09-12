@@ -1,6 +1,6 @@
 # 안건 제출
 > 다오 안건 제출시에는 수수료(톤)를 지불해야 합니다. 따라서 TON approveAndCall 함수를 이용하여, 정해진 톤을 수수료로 지불하면서, 안건을 제출할 수 있습니다.
-
+TON: [etherscan link](https://etherscan.io/address/0x2be5e8c109e2197D077D13A82dAead6a9b3433C5)
 ---
 
 ## 사전 준비사항
