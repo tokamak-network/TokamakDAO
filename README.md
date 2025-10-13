@@ -25,10 +25,10 @@ All repositories related to development for TokamakStaking are provided here. Pl
 You can host TONStaking in local environment. Please follow this guide. 
 - [DAO community version](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)
 
-<!-- ## Community hosted links
+## Community hosted links
 
-Following links are hosted by a community member and are not endorsed by us. Use at your own risk; we do not provide any guarantee or support for using these links. -->
-<!-- - [Community hosted](https://staking-community-version-pcfu.vercel.app/) -->
+Following links are hosted by a community member and are not endorsed by us. Use at your own risk; we do not provide any guarantee or support for using these links.
+- [Community hosted](https://dao-community-version-amber.vercel.app/)
 
 
 ## Contributing
