@@ -17,6 +17,8 @@ All repositories related to development for TokamakStaking are provided here. Pl
 | Agenda   | [dao-agenda-metadata](https://github.com/tokamak-network/dao-agenda-metadata-repository)         |This repository allows proposers to voluntarily register on-chain agenda metadata to facilitate DAO committee voting. Proposers seeking DAO committee votes must register detailed metadata here. This establishes a self-regulating and transparent governance system that is voluntary in its disclosure but essential for community participation.| ✔️ Completed |
 | Contracts   | [Tokamak DAO Contracts](https://github.com/tokamak-network/tokamak-dao-contracts)           |This repository contains all DAO contracts for the Tokamak Network. The Tokamak Network DAO manages the settings of all contracts that operate the Tokamak Network. Detailed contract addresses can be found in the repository’s [README](https://github.com/tokamak-network/tokamak-dao-contracts?tab=readme-ov-file#deployed-contracts-addresses).|✔️ Completed |
 
+## Previous Agenda Info
+- You can see detailed information about agendas which were submitted in the legacy DAO service in [here](https://github.com/tokamak-network/ton-staking-v2/issues?q=state%3Aclosed%20label%3A%22DAO%20agenda%20proposal%22)
 
 ## Security
 - You can check the audit result in [this post](https://medium.com/tokamak-network/dao-ton-staking-v2-audit-report-2fa7bb1a9291)
@@ -26,7 +28,6 @@ You can host TONStaking in local environment. Please follow this guide.
 - [DAO community version](https://github.com/tokamak-network/dao-community-version/tree/main/sample-1)
 
 ## Community hosted links
-
 Following links are hosted by a community member and are not endorsed by us. Use at your own risk; we do not provide any guarantee or support for using these links.
 - [Community hosted](https://dao-community-version-amber.vercel.app/)
 
