@@ -13,8 +13,6 @@
 | <span style="font-size:100%">Candidate_ADDRESS</span>| 0x1a8f59017e0434efc27e89640ac4b7d7d194c0a3     |
 | <span style="font-size:100%">CandidateFactory_ADDRESS</span>| 0xc5eb1c5ce7196bdb49ea7500ca18a1b9f1fa3ffb     |
 | <span style="font-size:100%">CandidateFactoryProxy_ADDRESS</span>| 0x9fc7100a16407ee24a79c834a56e6eca555a5d7c     |
-| <span style="font-size:100%">Layer2Registry_ADDRESS</span>| 0x296ef64487ecfddcdd03eab35c81c9262dab88ba     |
-| <span style="font-size:100%">Layer2RegistryProxy_ADDRESS</span>| 0x7846c2248a7b4de77e9c2bae7fbb93bfc286837b     |
 | <span style="font-size:100%">SeigManager_ADDRESS</span>| 0x0b55a0f463b6defb81c6063973763951712d0e5f     |
 
 
